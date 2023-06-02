@@ -1,2 +1,2 @@
-# pythonic-odyssey
-My odyssey of learning the Python programming language
+# Introduction
+This is my odyssey to learn Python and document my struggles as well as my successes.
