@@ -8,7 +8,7 @@ My interest in Python is to learn the language and explore all aspects of it fro
 Projects:
 <ul>
   <li>To Do List</li>
-  <li>Calcutor</li>
+  <li>Calculator</li>
   <li>Django</li>
   <li>Flask</li>
   <li>Data Science</li>
