@@ -14,4 +14,5 @@ Projects:
   <li>Data Science</li>
   <li>Machine Learning</li>
   <li>Blender 3D</li>
+  <li>Automation</li>
 </ul>
