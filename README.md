@@ -5,7 +5,7 @@ My experience has been primarily in the Content Mangement Development space.
 
 My interest in Python is to learn the language and explore all aspects of it from the web application space to data science to machine learning to automation.
 
-Projects:
+<strong>Projects:</strong>
 <ul>
   <li>To Do List</li>
   <li>Calculator</li>
